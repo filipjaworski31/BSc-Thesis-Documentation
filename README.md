@@ -116,7 +116,7 @@ To repozytorium zawiera końcowy raport z pracy dyplomowej w formacie PDF, któr
 * Szczegółowa specyfikacja funkcjonalna aplikacji.
 * Przegląd faz rozwoju i wdrażania.
 
-**[Link do pracy magisterskiej PDF](./BSc-Thesis-Documentation.pdf)**
+**[Link do pracy inżynierskiej PDF](./BSc-Thesis-Documentation.pdf)**
 
 > **Uwaga:** Kod źródłowy tego projektu znajduje się obecnie w prywatnym repozytorium w oczekiwaniu na oczyszczenie poufnych kluczy i danych uwierzytelniających. Można go udostępnić na żądanie w celach rekrutacyjnych.
 
